@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1943027255007197401
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1943027255007197407}
+  - component: {fileID: 1943027255007197406}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1943027255007197407
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1943027255007197401}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1943027255007197406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1943027255007197401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a2e44cf0ef136419927cb9cb6961f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Configuration:
+  - Tag: Grapple
+    Clip: {fileID: 8300000, guid: 16d4b360b6075d349a77e1ec91389079, type: 3}
+    Volume: 0.5
+  - Tag: Shoot
+    Clip: {fileID: 8300000, guid: f60ec215df5936c428b8536db84fcca8, type: 3}
+    Volume: 0.5
+  - Tag: Impact
+    Clip: {fileID: 8300000, guid: 2a0fb15df38ee2641b58bd218f350c68, type: 3}
+    Volume: 0.5
+  - Tag: Melee
+    Clip: {fileID: 8300000, guid: f8ce8133b7cc59b4d80052acee32fd68, type: 3}
+    Volume: 0.5
+  - Tag: Enemy Shoot
+    Clip: {fileID: 8300000, guid: 9e3d99059c05a6742b0b5d649d12fa80, type: 3}
+    Volume: 0.5
+  - Tag: Enemy Death
+    Clip: {fileID: 8300000, guid: 9f36f60121b71b542bac02d184bcf205, type: 3}
+    Volume: 1
+  - Tag: Hit Wall
+    Clip: {fileID: 8300000, guid: 2a0fb15df38ee2641b58bd218f350c68, type: 3}
+    Volume: 0.5
+  - Tag: Background
+    Clip: {fileID: 8300000, guid: c9e032525f97e5e46a4f55fb26205440, type: 3}
+    Volume: 0.5
+  - Tag: Railgun Charge 1
+    Clip: {fileID: 8300000, guid: cff747d26ff6132469714782138c02b4, type: 3}
+    Volume: 2
+  - Tag: Railgun Charge 2
+    Clip: {fileID: 8300000, guid: f4df2fe215cc8e049a6fa873c780fdd1, type: 3}
+    Volume: 2
+  - Tag: Railgun Charge 3
+    Clip: {fileID: 8300000, guid: 62348b2bbc59b9645bd4b01bfe920ad1, type: 3}
+    Volume: 2
+  - Tag: Railgun Shoot
+    Clip: {fileID: 8300000, guid: 9e3d99059c05a6742b0b5d649d12fa80, type: 3}
+    Volume: 0.3
+  - Tag: Explosion
+    Clip: {fileID: 8300000, guid: be0f9bc321580cf428275b8e5028126f, type: 3}
+    Volume: 0.3
+  - Tag: Shield Deactivate
+    Clip: {fileID: 8300000, guid: 8e9edb7b68a5720419a4b9f737b2527d, type: 3}
+    Volume: 0.3
+  - Tag: Shield Activate
+    Clip: {fileID: 8300000, guid: 6316e3ea83e870c40b452c978cb279b8, type: 3}
+    Volume: 0.3

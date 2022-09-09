@@ -1,0 +1,10 @@
+Pixel Font - Tripfive: https://assetstore.unity.com/packages/2d/fonts/pixel-font-tripfive-64734
+GroundNormalMap: https://www.filterforge.com/filters/8797-normal.html
+Grappling sound effect (Utility cord pull, feed through, rub, single 14): https://www.zapsplat.com/sound-effect-category/rope/
+Weapon 1 Sound Effect (Lazer weapon shot): https://mixkit.co/free-sound-effects/sci-fi/?page=3
+Impact 1 Sound Effect (Bullet impact, metal): https://www.soundsnap.com/search/audio/bullet%20impact/score
+Melee 1 Sound Effect (Sword slash swoosh): https://mixkit.co/free-sound-effects/sword/
+Weapon 2 Sound Effect (Sci-fi weapon - shotgun - shooting 4): https://www.soundsnap.com/tags/sci_fi_weapons
+Stock Sci-Fi Music : https://www.void1gaming.com/free-sci-fi-game-soundtracks
+Hologram lines: https://github.com/Brackeys/Shader-Graph-Tutorials/blob/master/Shader%20Graph/Assets/Textures/HologramLines_Cool.psd
+URP Blit Renderer Feature: https://www.youtube.com/watch?v=77Lc43yTREo

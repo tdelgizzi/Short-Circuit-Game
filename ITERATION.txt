@@ -1,0 +1,42 @@
+--------- GoldSpike Feedback----------
+
+In our GoldSpike feedback, it didn't feel like the zero gravity aspect of the environment was apparent to the player.
+Consquently, the grapple felt like it had no purpose, especially with WASD movement.
+We decided to get rid of WASD movement all together, instead relying on the grapple, as well as recoil from the gun.
+
+We also got feedback that the melee felt like it had no purpose when compared to the ranged weapon.
+In response, we added the ability for the melee to reflect enemy projectile back at the enemies.
+The melee is also now useful for moving environment objects out of the way.
+
+The enemies felt pretty lackluster in our GoldSpike, since they were stationary and had very limited visual range.
+We revamped our ranged enemies with movement, telegraphed attacks, and more dangerous shooting behavior.
+
+We made substantial upgrades to the aesthetics and theming to show off our setting onboard a space ship.
+We have much higher quality custom spritework and animations for our enemies, player, and environment.
+
+Because we were lacking juice in our initial prototype, we now have sounds, background music, and screen shake effects
+ to enhance the player experience and provide more feedback to the player about changes to the game state.
+
+---------- Milestone 1 Feedback -----------
+
+In our round of p3_milestone playtesting, we got the criticism that the grapple hook felt like a movement option that didn't fit the style
+of the game, and felt purposeless. It didn't interact well with the enemies and environment, and was often obstructed by our boxes.
+We removed the complete reliance on the grapple for quick movement, and added alternative items to equip in place of the grapple, like the
+pulse bomb, and teleporter.
+
+Some playtesters did not enjoy the relying mainly on the recoil of the gun to move, and wanted some way to affect their movement more
+precisely. We have tried to add more options for movement, but still limit the player compared to our GoldSpike iteration with normal
+WASD movement. We limited WASD by consuming a fuel meter whenever the player uses the arrow keys to move, leading them to rely more on other
+methods of motion.
+
+Multiple playtesters complained about our audio, and the music and wall hits drowning out the rest of the sound. We tried to balance the
+volume of the background music with our other sounds, and added directionality to sound effects in the hopes that it increase player immersion.
+
+The boxes had little to no purpose in our Milestone iteration, besides being a hindrace to the player. We added a new system where if enemies are
+hit hard enough by boxes, they will be killed. This allows the boxes to be more useful to the player in combat.
+
+Although many people liked our singular enemy type in our Milestone iteration, it lead to blander combat with no variety. We have added two new
+enemy types into this iteration, both melee enemies, to added a new challenege to the player, and more variety. We also added an enemy with stonger
+defenses against ranged weapons, forcing the player to take a different approck to defeat them.
+
+

@@ -1,0 +1,2 @@
+The game takes place in outer space, where there is no gravity.
+The player will preserve their momentum while moving, and can use the grappling hook to quickly pull themselves to walls, enemies, and obstacles.
